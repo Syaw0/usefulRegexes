@@ -26,3 +26,12 @@
 
 /(.)(?=.*\1)/
 ```
+
+
+#### Select If Whole String is Uppercase :
+
+
+```regex
+
+/^[A-Z\s]+$/
+```
