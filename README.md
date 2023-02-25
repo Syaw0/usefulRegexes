@@ -1,5 +1,23 @@
 # USEFUL REGEXes
 
+
+
+#### Select Spaces:
+
+```regex
+
+/\s/
+```
+
+
+#### Select Non Spaces:
+
+```regex
+
+/\S/
+```
+
+
 #### Validate Email Addresses:
 
 ```regex
