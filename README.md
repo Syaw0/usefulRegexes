@@ -33,6 +33,21 @@
 /\D/
 ```
 
+#### Select Letters[a-zA-z] and Digits[0-9]:
+
+```regex
+
+/\w/
+```
+
+
+#### Select Everything except Letters[a-zA-z] and Digits[0-9]:
+
+```regex
+
+/\W/
+```
+
 
 
 #### Validate Email Addresses:
