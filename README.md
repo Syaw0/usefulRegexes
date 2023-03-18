@@ -18,6 +18,23 @@
 ```
 
 
+#### Select Digits:
+
+```regex
+
+/\d/
+```
+
+
+#### Select Non Digits:
+
+```regex
+
+/\D/
+```
+
+
+
 #### Validate Email Addresses:
 
 ```regex
